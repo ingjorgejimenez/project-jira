@@ -1,0 +1,10 @@
+.dragging {
+  background-color: #333;
+  border-radius: 1rem;
+  border: 1px dashed white;
+}
+.draggingHover {
+  background-color: transparent;
+  border: none;
+  border-radius: 0;
+}
